@@ -1,10 +1,7 @@
 ---
 title: "Diversidad Genetica mediante el uso de marcadores mitocondriales de una Variedad Dorada de Trucha (Oncorhynchus mykiss) cultivada en el lago Titicaca."
 subtitle: "www.quipo.org"
-author:
-  - "Flavio Lozano-Isla $^{1*}$, Jimmy Gomez $^{2}$"
-  - "$^{1}$ Agronomist MSc, E-mail: flavjack@gmail.com"
-  - "$^{2}$ Agronomist, Co-founder quipo.org"
+author: "Carlos Carbajal Llosa"
 date: "`r if (knitr:::is_html_output()) Sys.Date()`"
 description: document template for scientific report
 github-repo: flavjack/rticles/issues
